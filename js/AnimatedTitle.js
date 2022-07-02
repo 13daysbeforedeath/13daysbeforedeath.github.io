@@ -1,6 +1,6 @@
     var rev = "fwd";
     function titlebar(val){
-        var msg  = "neverøyatnøøø";
+        var msg  = "neveroyatnooo";
         var res = " ";
         var speed = 100;
         var pos = val;
